@@ -17,10 +17,7 @@ O objetivo do jogo é simples: controle a cobra para comer frutas e crescer o m�
 
 - Interface gráfica moderna criada com WPF
 - Sistema de pontuação em tempo real
-- Tabela de classificação dos melhores jogadores
-- Dificuldade progressiva: a cobra fica mais rápida conforme cresce
-- Efeitos sonoros nostálgicos
-- Diferentes tipos de frutas com pontuações variadas
+- Dificuldade progressiva: a cobra fica mais rápida conforme cresce ou come a fruta
 
 ## Como Jogar
 
@@ -54,7 +51,6 @@ SnakerPRO foi desenvolvido usando:
 - C# como linguagem de programação
 - WPF (Windows Presentation Foundation) para a interface gráfica
 - XAML para definição de layout
-- Padrão MVVM para arquitetura de software
 
 ## Contribuição
 
@@ -66,12 +62,6 @@ Contribuições são bem-vindas! Se você quiser melhorar o SnakerPRO, siga esta
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
-
 ## Contato
 
-Nome do Desenvolvedor - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
-
-Link do Projeto: [https://github.com/seu_usuario/SnakerPRO](https://github.com/seu_usuario/SnakerPRO)
+Link do Projeto: [https://github.com/seu_usuario/SnakerPRO](https://github.com/RYDAXOR/SnakerPRO)
