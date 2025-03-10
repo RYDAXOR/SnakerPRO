@@ -41,9 +41,8 @@ O objetivo do jogo é simples: controle a cobra para comer frutas e crescer o m�
 
 ## Instalação
 
-1. Baixe o arquivo de instalação SnakerPRO.exe
-2. Execute o instalador e siga as instruções na tela
-3. Após a instalação, inicie o jogo pelo atalho criado na área de trabalho
+1. Baixe o arquivo zip
+2. Extraia e execute SnakerPro.exe
 
 ## Desenvolvimento
 
