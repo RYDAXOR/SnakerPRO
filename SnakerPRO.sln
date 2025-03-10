@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.14.35821.62 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakerPRO", "SnakerPRO\SnakerPRO.csproj", "{A9F30C3B-2526-4F84-A6F2-2E01E71A8F55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F30C3B-2526-4F84-A6F2-2E01E71A8F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F30C3B-2526-4F84-A6F2-2E01E71A8F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F30C3B-2526-4F84-A6F2-2E01E71A8F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F30C3B-2526-4F84-A6F2-2E01E71A8F55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF34D009-1C6C-4F19-A1CC-0F8C0F75C7ED}
+	EndGlobalSection
+EndGlobal
