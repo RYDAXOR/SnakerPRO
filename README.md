@@ -63,4 +63,4 @@ Contribuições são bem-vindas! Se você quiser melhorar o SnakerPRO, siga esta
 
 ## Contato
 
-Link do Projeto: [https://github.com/seu_usuario/SnakerPRO](https://github.com/RYDAXOR/SnakerPRO)
+Link do Projeto: [https://github.com/RYDAXOR/SnakerPRO](https://github.com/RYDAXOR/SnakerPRO)
